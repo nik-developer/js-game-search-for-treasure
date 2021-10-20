@@ -1,0 +1,18 @@
+body {
+  background-color: gold;
+}
+.heading {
+  text-align: center;
+}
+.map {
+  display: flex;
+  margin: auto;
+}
+.distance {
+  text-align: center;
+  margin: 0;
+  font-size: 32px;
+}
+.clicks-remaining {
+  text-align: center;
+}
